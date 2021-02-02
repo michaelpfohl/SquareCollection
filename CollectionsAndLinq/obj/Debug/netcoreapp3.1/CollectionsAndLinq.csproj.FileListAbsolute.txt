@@ -1,0 +1,12 @@
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.exe
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.deps.json
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.runtimeconfig.json
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.dll
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\bin\Debug\netcoreapp3.1\CollectionsAndLinq.pdb
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.dll
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.pdb
+C:\Users\rmpfo\source\repos\CollectionsAndLinq\CollectionsAndLinq\obj\Debug\netcoreapp3.1\CollectionsAndLinq.genruntimeconfig.cache
